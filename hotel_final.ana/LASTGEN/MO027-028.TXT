@@ -1,0 +1,2 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Region_Menage		NFI		nouveau fichier

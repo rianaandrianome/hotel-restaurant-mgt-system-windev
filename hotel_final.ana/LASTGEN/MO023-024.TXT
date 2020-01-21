@@ -1,0 +1,2 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+categorie_produit_sortie		NFI		nouveau fichier

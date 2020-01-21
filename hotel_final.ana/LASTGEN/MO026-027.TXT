@@ -1,0 +1,4 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Calendrier_menage		TAR	230	nouvelle taille enregistrement : 230
+Calendrier_menage	region_menage	RUB+		region_menage est une nouvelle rubrique
+Calendrier_menage	remarque	RUB+		remarque est une nouvelle rubrique

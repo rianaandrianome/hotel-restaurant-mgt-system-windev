@@ -1,0 +1,5 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Divers		TAR	142	nouvelle taille enregistrement : 142
+Divers	categorie_divers	RUB+		categorie_divers est une nouvelle rubrique
+categorie_divers		NFI		nouveau fichier
+stock		NFI		nouveau fichier

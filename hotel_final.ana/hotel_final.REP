@@ -1,0 +1,10 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=6	;Analysis GUID
+LOCALIZATION_UTF8=7582FDE64DEC4171A96181C9A680307C	employe_salaire	D:\Mes Projets\hotel_final\Exe\Data\employe_salaire.fic
+LOCALIZATION_UTF8=0CA01DB8876F442687C9E31D01214CDF	categorie_salaire	D:\Mes Projets\hotel_final\Exe\Data\categorie_salaire.fic
+LOCALIZATION_UTF8=5D58BA2B36274CD787EC7E96F27B1982	categorie_divers	D:\Mes Projets\hotel_final\Exe\Data\categorie_divers.fic
+LOCALIZATION_UTF8=12165E320EA5454EB7B9C9129FBE03ED	stock	D:\Mes Projets\hotel_final\Exe\Data\stock.fic
+LOCALIZATION_UTF8=D60F5E76BA584E8A8ABAB61820237E27	categorie_produit_sortie	D:\Mes Projets\hotel_final\Exe\Data\categorie_produit_sortie.fic
+LOCALIZATION_UTF8=ABD89B7C522A4970B8E53DC4EA294C36	Article	D:\Mes Projets\hotel_final\Exe\Data\Article.fic
+LOCALIZATION_UTF8=A19FF6B5BA9E4E3FAC43BC38FEA9EC6F	Region_Menage	D:\Mes Projets\hotel_final\Exe\Data\Region_Menage.fic

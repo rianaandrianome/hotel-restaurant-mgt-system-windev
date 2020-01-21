@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Produit		TAR	129	nouvelle taille enregistrement : 129
+Produit	categorie_produit_sortie	RUB+		categorie_produit_sortie est une nouvelle rubrique

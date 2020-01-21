@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Personnel		TAR	427	nouvelle taille enregistrement : 427
+Personnel	salaire	RUB-		la rubrique salaire est supprimée

@@ -1,0 +1,15 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=6	;Analysis GUID
+LOCALIZATION_UTF8=ECAA506EED564F749B9E60493E9935A8	bungalow	D:\Mes Projets\hotel_final\Exe\Data\bungalow.fic
+LOCALIZATION_UTF8=18895850C489459DBACB98C1A5A0F33A	Personnel	D:\Mes Projets\hotel_final\Exe\Data\Personnel.fic
+LOCALIZATION_UTF8=8EB19DF6F6B049A8A0406D4C3F2275E1	Menu	D:\Mes Projets\hotel_final\Exe\Data\Menu.fic
+LOCALIZATION_UTF8=39BC4490790147889D6163FA3A8BB2DD	transport	D:\Mes Projets\hotel_final\Exe\Data\transport.fic
+LOCALIZATION_UTF8=7B3419EEFA374C42888CF0F57296A41F	Entree	D:\Mes Projets\hotel_final\Exe\Data\Entree.fic
+LOCALIZATION_UTF8=6D9F0F864BDB48829976C9B795E1400F	Entree_Menu	D:\Mes Projets\hotel_final\Exe\Data\Entree_Menu.fic
+LOCALIZATION_UTF8=A88CBF1FF6774467AB5EF0E8F4E2444E	temp_entree	D:\Mes Projets\hotel_final\Exe\Data\temp_entree.fic
+LOCALIZATION_UTF8=B2B561402EB54E6C805F2059D1A0457C	Produit	D:\Mes Projets\hotel_final\Exe\Data\Produit.fic
+LOCALIZATION_UTF8=4E9F5CF7366E4449BE43F8DC6C450812	Sortie	D:\Mes Projets\hotel_final\Exe\Data\Sortie.fic
+LOCALIZATION_UTF8=55EBBD1D4D9B481491EDDAA3932D08DC	Tache	D:\Mes Projets\hotel_final\Exe\Data\Tache.fic
+LOCALIZATION_UTF8=D7FCBF66AAFF4D96935A9A756E0E2327	Calendrier_menage	D:\Mes Projets\hotel_final\Exe\Data\Calendrier_menage.fic
+LOCALIZATION_UTF8=94B19634D1824E6B80AF321893E626DD	Categorie	D:\Mes Projets\hotel_final\Exe\Data\Categorie.fic

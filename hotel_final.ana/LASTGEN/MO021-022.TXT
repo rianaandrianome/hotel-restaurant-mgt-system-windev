@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+categorie_salaire		NFI		nouveau fichier
+employe_salaire		NFI		nouveau fichier
